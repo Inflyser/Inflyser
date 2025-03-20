@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-https://ru.pinterest.com/pin/579768152068831301/
+(https://ru.pinterest.com/pin/579768152068831301/)
 
 
 - 🔭 I’m currently working on ...
