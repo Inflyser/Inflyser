@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-![](https://ru.pinterest.com/pin/1059612618579183218)
+![]([https://ru.pinterest.com/pin/1059612618579183218](https://pin.it/7sivpgf0V))
 <!--
 **Inflyser/Inflyser** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
