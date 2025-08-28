@@ -8,6 +8,8 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=inflyser&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=inflyser&theme=radical)](https://git.io/streak-stats)
+
 *   **Telegram:** [@inflyser](https://t.me/inflyser)
 
 ### 🛠️ Tech Stack
