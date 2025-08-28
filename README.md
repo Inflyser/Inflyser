@@ -3,6 +3,8 @@
 
 ---
 
+*   **Telegram:** [@inflyser](https://t.me/inflyser)
+
 ### 🛠️ Мой Tech-стек
 
 **Backend:**
