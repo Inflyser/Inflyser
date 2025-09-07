@@ -22,6 +22,7 @@
 
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Aiogram](https://img.shields.io/badge/Aiogram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
+![WebSocket](https://img.shields.io/badge/WebSocket-5C9BCC?style=for-the-badge)
 
 **Frontend:**
 
