@@ -1,10 +1,5 @@
 
-## Junior+ Full-Stack Developer
-
----
-### 📈 Моя статистика на GitHub
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=inflyser&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=inflyser&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+## Full-Stack Developer
 
 ---
 
@@ -50,11 +45,6 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![UI/UX](https://img.shields.io/badge/UI/UX-Design-FF6F61?style=for-the-badge)
-
-
----
-
-![...](https://github.com/Inflyser/git-move/blob/main/vcfdsvg.gif)   ![...](https://github.com/Inflyser/git-move/blob/main/vcfdsvg.gif)   ![...](https://github.com/Inflyser/git-move/blob/main/vcfdsvg.gif)
 
 
 ---
