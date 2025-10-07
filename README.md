@@ -2,6 +2,8 @@
 ## Full-Stack Developer
 
 ---
+<img width="735" height="428" alt="image" src="https://github.com/user-attachments/assets/fcebcda1-779d-43e6-8c54-36b77e2156cf" />
+---
 
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/inflyser)
 
